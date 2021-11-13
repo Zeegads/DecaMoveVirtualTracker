@@ -22,3 +22,7 @@ Creates a virtual "vive" hip tracker that lets you rotate your hips with the dec
 * Robin#6741 DecaMove Discord - Started this project!
 * owo-track-driver
 
+## Download
+https://github.com/Zeegads/DecaMoveVirtualTracker/releases/
+
+
